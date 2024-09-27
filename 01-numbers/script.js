@@ -16,7 +16,7 @@ console.log(times); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
 const numThreeDividedByNumOne = numthree / numone;
-console.log(divide); // Output: 4
+console.log(dividedby); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
 const numThreeMinusNumOne = numthree - numone;
