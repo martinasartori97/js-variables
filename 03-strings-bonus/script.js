@@ -1,5 +1,5 @@
 const city = 'New York'; // NON MODIFICARE QUESTA RIGA
-const cityName = 'Città'; // NON MODIFICARE QUESTA RIGA
+const cityName = 'City'; // NON MODIFICARE QUESTA RIGA
 const shoppingList = 'mele, banane, arance, uva'; // NON MODIFICARE QUESTA RIGA
 const hello = 'hello'; // NON MODIFICARE QUESTA RIGA
 
