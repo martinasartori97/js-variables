@@ -7,20 +7,20 @@ const numThree = 32; // NON MODIFICARE QUESTA RIGA
 
 // 1. Imposta questa variabile come somma di numOne e numTwo
 const numOnePlusNumTwo = numOne + numTwo;
-console.log(plus); // Output: 24
+console.log(numOnePlusNumTwo); // Output: 24
 
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
 const numThreeTimesNumTwo = numthree * numTwo;
-console.log(times); // Output: 512
+console.log(numThreeTimesNumTwo); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
 const numThreeDividedByNumOne = numthree / numone;
-console.log(dividedby); // Output: 4
+console.log(numThreeDividedByNumOne); // Output: 4
 
 // 4. Imposta questa variabile come differenza tra numThree e numOne
 const numThreeMinusNumOne = numthree - numone;
-console.log(minus); // Output: 4
+console.log(numThreeMinusNumOn); // Output: 4
 
 // 5. Imposta questa variabile come somma di numOne, numTwo e numThree
 const sum = numone + numtwo + numthree;
